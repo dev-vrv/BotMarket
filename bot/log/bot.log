@@ -1,0 +1,1300 @@
+2024-10-10 03:33:42 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 03:33:42 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:33:42 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 03:33:44 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 03:33:44 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:34:00 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 03:34:00 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:34:00 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 03:34:02 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 03:34:02 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:34:11 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 03:34:12 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 03:34:12 - aiogram.event - INFO - Update id=812557974 is handled. Duration 396 ms by bot id=7583563548
+2024-10-10 03:34:17 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 03:34:18 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 03:34:18 - aiogram.event - INFO - Update id=812557975 is handled. Duration 159 ms by bot id=7583563548
+2024-10-10 03:34:37 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам.
+2024-10-10 03:34:37 - aiogram.event - INFO - Update id=812557976 is handled. Duration 346 ms by bot id=7583563548
+2024-10-10 03:34:40 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: sdfsff
+2024-10-10 03:34:40 - aiogram.event - INFO - Update id=812557977 is handled. Duration 267 ms by bot id=7583563548
+2024-10-10 03:34:43 - handlers.handlers - INFO - Отправляем сообщение подписчикам: [717426160]
+2024-10-10 03:34:43 - handlers.handlers - INFO - Сообщение отправлено подписчику 717426160
+2024-10-10 03:34:43 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 03:34:43 - aiogram.event - INFO - Update id=812557978 is handled. Duration 659 ms by bot id=7583563548
+2024-10-10 03:36:47 - database - INFO - Пользователь 6088267849 добавлен в базу данных подписчиков.
+2024-10-10 03:36:48 - handlers.handlers - INFO - Пользователь 6088267849 добавлен в базу данных подписчиков.
+2024-10-10 03:36:48 - aiogram.event - INFO - Update id=812557979 is handled. Duration 365 ms by bot id=7583563548
+2024-10-10 03:37:11 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам.
+2024-10-10 03:37:11 - aiogram.event - INFO - Update id=812557980 is handled. Duration 348 ms by bot id=7583563548
+2024-10-10 03:37:14 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: Вововово
+2024-10-10 03:37:14 - aiogram.event - INFO - Update id=812557981 is handled. Duration 172 ms by bot id=7583563548
+2024-10-10 03:37:16 - handlers.handlers - INFO - Отправляем сообщение подписчикам: [717426160, 6088267849]
+2024-10-10 03:37:16 - handlers.handlers - INFO - Сообщение отправлено подписчику 717426160
+2024-10-10 03:37:16 - handlers.handlers - INFO - Сообщение отправлено подписчику 6088267849
+2024-10-10 03:37:16 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 03:37:16 - aiogram.event - INFO - Update id=812557982 is handled. Duration 1121 ms by bot id=7583563548
+2024-10-10 03:39:56 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 03:39:56 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:39:56 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 03:39:58 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 03:39:58 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:40:05 - aiogram.event - INFO - Update id=812557983 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 03:40:10 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам.
+2024-10-10 03:40:10 - aiogram.event - INFO - Update id=812557984 is handled. Duration 382 ms by bot id=7583563548
+2024-10-10 03:40:22 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: Арс отзовись нига
+2024-10-10 03:40:22 - aiogram.event - INFO - Update id=812557985 is handled. Duration 288 ms by bot id=7583563548
+2024-10-10 03:40:24 - handlers.handlers - INFO - Отправляем сообщение подписчикам: [717426160, 6088267849]
+2024-10-10 03:40:24 - handlers.handlers - INFO - Сообщение отправлено подписчику 717426160
+2024-10-10 03:40:24 - handlers.handlers - INFO - Сообщение отправлено подписчику 6088267849
+2024-10-10 03:40:24 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 03:40:24 - aiogram.event - INFO - Update id=812557986 is handled. Duration 933 ms by bot id=7583563548
+2024-10-10 03:51:48 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 03:51:48 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:51:48 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 03:51:50 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 03:51:50 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:52:05 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам и группам.
+2024-10-10 03:52:05 - aiogram.event - INFO - Update id=812557987 is handled. Duration 328 ms by bot id=7583563548
+2024-10-10 03:52:08 - handlers.handlers - INFO - Действие: cancel_send
+2024-10-10 03:52:08 - aiogram.event - INFO - Update id=812557988 is handled. Duration 432 ms by bot id=7583563548
+2024-10-10 03:52:11 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 03:52:11 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 03:52:11 - aiogram.event - INFO - Update id=812557989 is handled. Duration 209 ms by bot id=7583563548
+2024-10-10 03:54:21 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 03:54:21 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:54:21 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 03:54:23 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 03:54:24 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:54:30 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 03:54:31 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 03:54:31 - aiogram.event - INFO - Update id=812557990 is handled. Duration 511 ms by bot id=7583563548
+2024-10-10 03:54:35 - aiogram.event - INFO - Update id=812557991 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 03:54:38 - aiogram.event - INFO - Update id=812557992 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 03:54:39 - aiogram.event - INFO - Update id=812557993 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 03:57:55 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 03:57:55 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:57:55 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 03:57:57 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 03:57:58 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:57:59 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 03:57:59 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 03:57:59 - aiogram.event - INFO - Update id=812557994 is handled. Duration 375 ms by bot id=7583563548
+2024-10-10 03:58:01 - handlers.handlers - INFO - Действие: send_to_users
+2024-10-10 03:58:01 - aiogram.event - INFO - Update id=812557995 is handled. Duration 362 ms by bot id=7583563548
+2024-10-10 03:58:15 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: Some TEXT TEST BUTTONS MESSAGE
+2024-10-10 03:58:15 - aiogram.event - INFO - Update id=812557996 is handled. Duration 124 ms by bot id=7583563548
+2024-10-10 03:58:16 - handlers.handlers - INFO - Отправляем сообщение подписчикам: [717426160, 6088267849]
+2024-10-10 03:58:16 - handlers.handlers - INFO - Сообщение отправлено подписчику 717426160
+2024-10-10 03:58:17 - handlers.handlers - INFO - Сообщение отправлено подписчику 6088267849
+2024-10-10 03:58:17 - aiogram.event - INFO - Update id=812557997 is not handled. Duration 523 ms by bot id=7583563548
+2024-10-10 03:58:17 - aiogram.event - ERROR - Cause exception while process update id=812557997 by bot id=7583563548
+AttributeError: 'Bot' object has no attribute 'get_dialogs'
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 119, in handle_callback
+    await send_message_to_subscribers_and_groups(callback_query.message, state)
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 63, in send_message_to_subscribers_and_groups
+    groups = await get_admin_groups(message.bot)
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 34, in get_admin_groups
+    async for dialog in bot.get_dialogs():
+AttributeError: 'Bot' object has no attribute 'get_dialogs'
+2024-10-10 03:58:28 - handlers.handlers - INFO - Действие: cancel_send
+2024-10-10 03:58:28 - aiogram.event - INFO - Update id=812557998 is handled. Duration 251 ms by bot id=7583563548
+2024-10-10 03:58:34 - handlers.handlers - INFO - Отправляем сообщение подписчикам: [717426160, 6088267849]
+2024-10-10 03:58:34 - handlers.handlers - ERROR - Не удалось отправить сообщение подписчику 717426160: 1 validation error for SendMessage
+text
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-10 03:58:34 - handlers.handlers - ERROR - Не удалось отправить сообщение подписчику 6088267849: 1 validation error for SendMessage
+text
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-10 03:58:34 - aiogram.event - INFO - Update id=812557999 is not handled. Duration 421 ms by bot id=7583563548
+2024-10-10 03:58:34 - aiogram.event - ERROR - Cause exception while process update id=812557999 by bot id=7583563548
+AttributeError: 'Bot' object has no attribute 'get_dialogs'
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 119, in handle_callback
+    await send_message_to_subscribers_and_groups(callback_query.message, state)
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 63, in send_message_to_subscribers_and_groups
+    groups = await get_admin_groups(message.bot)
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 34, in get_admin_groups
+    async for dialog in bot.get_dialogs():
+AttributeError: 'Bot' object has no attribute 'get_dialogs'
+2024-10-10 03:59:45 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 03:59:45 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:59:45 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 03:59:48 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 03:59:48 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 03:59:55 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 03:59:56 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 03:59:56 - aiogram.event - INFO - Update id=812558000 is handled. Duration 488 ms by bot id=7583563548
+2024-10-10 04:00:08 - handlers.handlers - INFO - Действие: send_to_users
+2024-10-10 04:00:08 - aiogram.event - INFO - Update id=812558001 is handled. Duration 412 ms by bot id=7583563548
+2024-10-10 04:00:11 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: 123
+2024-10-10 04:00:11 - aiogram.event - INFO - Update id=812558002 is handled. Duration 232 ms by bot id=7583563548
+2024-10-10 04:00:15 - handlers.handlers - INFO - Отправляем сообщение подписчикам: [717426160, 6088267849]
+2024-10-10 04:00:15 - handlers.handlers - INFO - Сообщение отправлено подписчику 717426160
+2024-10-10 04:00:15 - handlers.handlers - INFO - Сообщение отправлено подписчику 6088267849
+2024-10-10 04:00:15 - handlers.handlers - INFO - Бот является администратором в группах: []
+2024-10-10 04:00:16 - handlers.handlers - INFO - Нет групп, где бот может отправлять сообщения.
+2024-10-10 04:00:16 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 04:00:16 - aiogram.event - INFO - Update id=812558003 is handled. Duration 1882 ms by bot id=7583563548
+2024-10-10 04:00:29 - handlers.handlers - INFO - Действие: send_to_users
+2024-10-10 04:00:29 - aiogram.event - INFO - Update id=812558004 is handled. Duration 388 ms by bot id=7583563548
+2024-10-10 04:00:32 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: 123123
+2024-10-10 04:00:32 - aiogram.event - INFO - Update id=812558005 is handled. Duration 163 ms by bot id=7583563548
+2024-10-10 04:01:31 - handlers.handlers - INFO - Действие: cancel_send
+2024-10-10 04:01:31 - aiogram.event - INFO - Update id=812558006 is handled. Duration 493 ms by bot id=7583563548
+2024-10-10 04:01:48 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:01:48 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:01:48 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:01:51 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:01:51 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:01:53 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:01:53 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:01:53 - aiogram.event - INFO - Update id=812558007 is handled. Duration 417 ms by bot id=7583563548
+2024-10-10 04:01:55 - handlers.handlers - INFO - Действие: send_to_users
+2024-10-10 04:01:55 - aiogram.event - INFO - Update id=812558008 is handled. Duration 375 ms by bot id=7583563548
+2024-10-10 04:02:20 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: None
+2024-10-10 04:02:20 - aiogram.event - INFO - Update id=812558009 is handled. Duration 352 ms by bot id=7583563548
+2024-10-10 04:02:22 - aiogram.event - INFO - Update id=812558010 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:02:22 - aiogram.event - ERROR - Cause exception while process update id=812558010 by bot id=7583563548
+AttributeError: type object 'BroadcastStates' has no attribute 'waiting_for_message_groups'
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 134, in handle_callback
+    elif current_state == BroadcastStates.waiting_for_message_groups.state:
+AttributeError: type object 'BroadcastStates' has no attribute 'waiting_for_message_groups'
+2024-10-10 04:03:03 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:03:03 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:03:03 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:03:05 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:03:05 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:03:09 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:03:10 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:03:10 - aiogram.event - INFO - Update id=812558011 is handled. Duration 422 ms by bot id=7583563548
+2024-10-10 04:03:12 - handlers.handlers - INFO - Действие: send_to_users
+2024-10-10 04:03:12 - aiogram.event - INFO - Update id=812558012 is handled. Duration 595 ms by bot id=7583563548
+2024-10-10 04:03:20 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: None
+2024-10-10 04:03:20 - aiogram.event - INFO - Update id=812558013 is handled. Duration 199 ms by bot id=7583563548
+2024-10-10 04:03:24 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 04:03:24 - aiogram.event - INFO - Update id=812558014 is handled. Duration 114 ms by bot id=7583563548
+2024-10-10 04:03:35 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 04:03:35 - aiogram.event - INFO - Update id=812558015 is handled. Duration 115 ms by bot id=7583563548
+2024-10-10 04:03:36 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 04:03:36 - aiogram.event - INFO - Update id=812558016 is handled. Duration 117 ms by bot id=7583563548
+2024-10-10 04:03:36 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 04:03:36 - aiogram.event - INFO - Update id=812558017 is handled. Duration 119 ms by bot id=7583563548
+2024-10-10 04:03:37 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 04:03:37 - aiogram.event - INFO - Update id=812558018 is handled. Duration 113 ms by bot id=7583563548
+2024-10-10 04:03:38 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 04:03:38 - aiogram.event - INFO - Update id=812558019 is handled. Duration 115 ms by bot id=7583563548
+2024-10-10 04:03:41 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 04:03:41 - aiogram.event - INFO - Update id=812558020 is handled. Duration 127 ms by bot id=7583563548
+2024-10-10 04:03:42 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 04:03:42 - aiogram.event - INFO - Update id=812558021 is handled. Duration 112 ms by bot id=7583563548
+2024-10-10 04:12:04 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:12:04 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:12:04 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:18:57 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:18:57 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:18:57 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:18:57 - aiogram.event - INFO - Update id=812558022 is not handled. Duration 16 ms by bot id=7583563548
+2024-10-10 04:18:57 - aiogram.event - ERROR - Cause exception while process update id=812558022 by bot id=7583563548
+ValidationError: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={'resize_keyboard': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 21, in start_command
+    keyboard = ReplyKeyboardMarkup(resize_keyboard=True)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/pydantic/main.py", line 212, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={'resize_keyboard': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-10 04:18:59 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:18:59 - aiogram.event - INFO - Update id=812558023 is not handled. Duration 13 ms by bot id=7583563548
+2024-10-10 04:18:59 - aiogram.event - ERROR - Cause exception while process update id=812558023 by bot id=7583563548
+ValidationError: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={'resize_keyboard': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 21, in start_command
+    keyboard = ReplyKeyboardMarkup(resize_keyboard=True)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/pydantic/main.py", line 212, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={'resize_keyboard': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-10 04:19:01 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:19:01 - aiogram.event - INFO - Update id=812558024 is not handled. Duration 24 ms by bot id=7583563548
+2024-10-10 04:19:01 - aiogram.event - ERROR - Cause exception while process update id=812558024 by bot id=7583563548
+ValidationError: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={'resize_keyboard': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 21, in start_command
+    keyboard = ReplyKeyboardMarkup(resize_keyboard=True)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/pydantic/main.py", line 212, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={'resize_keyboard': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-10 04:19:19 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:19:19 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:19:19 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:19:21 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:19:21 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:19:21 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:19:21 - aiogram.event - INFO - Update id=812558025 is not handled. Duration 24 ms by bot id=7583563548
+2024-10-10 04:19:21 - aiogram.event - ERROR - Cause exception while process update id=812558025 by bot id=7583563548
+ValidationError: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 21, in start_command
+    keyboard = ReplyKeyboardMarkup()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/pydantic/main.py", line 212, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-10 04:19:25 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:19:25 - aiogram.event - INFO - Update id=812558026 is not handled. Duration 24 ms by bot id=7583563548
+2024-10-10 04:19:25 - aiogram.event - ERROR - Cause exception while process update id=812558026 by bot id=7583563548
+ValidationError: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 21, in start_command
+    keyboard = ReplyKeyboardMarkup()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/pydantic/main.py", line 212, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-10 04:20:23 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:20:23 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:20:23 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:20:25 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:20:26 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:20:26 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:20:26 - aiogram.event - INFO - Update id=812558027 is not handled. Duration 29 ms by bot id=7583563548
+2024-10-10 04:20:26 - aiogram.event - ERROR - Cause exception while process update id=812558027 by bot id=7583563548
+ValidationError: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={'resize_keyboard': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 21, in start_command
+    keyboard = ReplyKeyboardMarkup(resize_keyboard=True)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/pydantic/main.py", line 212, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={'resize_keyboard': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-10 04:21:28 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:21:28 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:21:28 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:21:30 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:21:31 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:21:33 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:21:33 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:21:33 - aiogram.event - INFO - Update id=812558028 is handled. Duration 386 ms by bot id=7583563548
+2024-10-10 04:22:35 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:22:35 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:22:35 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:22:37 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:22:38 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:22:39 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:22:39 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:22:39 - aiogram.event - INFO - Update id=812558029 is handled. Duration 412 ms by bot id=7583563548
+2024-10-10 04:28:10 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:28:10 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:28:10 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:28:12 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:28:12 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:28:16 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:28:17 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:28:17 - aiogram.event - INFO - Update id=812558030 is handled. Duration 420 ms by bot id=7583563548
+2024-10-10 04:28:45 - aiogram.event - INFO - Update id=812558031 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:28:47 - aiogram.event - INFO - Update id=812558032 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:28:49 - aiogram.event - INFO - Update id=812558033 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:28:51 - aiogram.event - INFO - Update id=812558034 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:28:52 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:28:52 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:28:52 - aiogram.event - INFO - Update id=812558035 is handled. Duration 343 ms by bot id=7583563548
+2024-10-10 04:29:22 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:29:22 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:29:22 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:29:24 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:29:25 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:29:27 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:29:27 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:29:27 - aiogram.event - INFO - Update id=812558036 is handled. Duration 391 ms by bot id=7583563548
+2024-10-10 04:30:07 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:30:07 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:30:07 - aiogram.event - INFO - Update id=812558037 is handled. Duration 407 ms by bot id=7583563548
+2024-10-10 04:31:10 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:31:10 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:31:10 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:31:12 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:31:13 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:31:14 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:31:14 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:31:14 - aiogram.event - INFO - Update id=812558038 is handled. Duration 365 ms by bot id=7583563548
+2024-10-10 04:31:33 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:31:33 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:31:33 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:31:35 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:31:36 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:31:36 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:31:36 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:31:36 - aiogram.event - INFO - Update id=812558039 is handled. Duration 370 ms by bot id=7583563548
+2024-10-10 04:31:57 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:31:58 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:31:58 - aiogram.event - INFO - Update id=812558040 is handled. Duration 604 ms by bot id=7583563548
+2024-10-10 04:32:01 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:32:01 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:32:01 - aiogram.event - INFO - Update id=812558041 is handled. Duration 154 ms by bot id=7583563548
+2024-10-10 04:32:03 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:32:03 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:32:03 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:32:05 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:32:06 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:32:07 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:32:08 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:32:08 - aiogram.event - INFO - Update id=812558042 is handled. Duration 455 ms by bot id=7583563548
+2024-10-10 04:32:10 - aiogram.event - INFO - Update id=812558043 is not handled. Duration 1 ms by bot id=7583563548
+2024-10-10 04:33:03 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:33:03 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:33:03 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:33:06 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:33:06 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:33:08 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:33:08 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:33:08 - aiogram.event - INFO - Update id=812558044 is handled. Duration 471 ms by bot id=7583563548
+2024-10-10 04:33:13 - aiogram.event - INFO - Update id=812558045 is not handled. Duration 1 ms by bot id=7583563548
+2024-10-10 04:33:14 - aiogram.event - INFO - Update id=812558046 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:33:16 - aiogram.event - INFO - Update id=812558047 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:35:05 - aiogram.event - INFO - Update id=812558048 is handled. Duration 342 ms by bot id=7583563548
+2024-10-10 04:38:02 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:38:02 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:38:02 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:38:05 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:38:05 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:38:06 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:38:06 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:38:06 - aiogram.event - INFO - Update id=812558049 is handled. Duration 363 ms by bot id=7583563548
+2024-10-10 04:38:08 - aiogram.event - INFO - Update id=812558050 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:38:10 - aiogram.event - INFO - Update id=812558051 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:38:11 - aiogram.event - INFO - Update id=812558052 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:38:33 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:38:33 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:38:33 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:38:36 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:38:36 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:38:51 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:38:51 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:38:51 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:38:53 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:38:53 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:38:57 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:38:57 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:38:57 - aiogram.event - INFO - Update id=812558053 is handled. Duration 395 ms by bot id=7583563548
+2024-10-10 04:39:00 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам и группам.
+2024-10-10 04:39:00 - aiogram.event - INFO - Update id=812558054 is handled. Duration 158 ms by bot id=7583563548
+2024-10-10 04:39:14 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:39:14 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:39:14 - aiogram.event - INFO - Update id=812558055 is handled. Duration 232 ms by bot id=7583563548
+2024-10-10 04:39:18 - aiogram.event - INFO - Update id=812558056 is handled. Duration 132 ms by bot id=7583563548
+2024-10-10 04:39:22 - aiogram.event - INFO - Update id=812558057 is handled. Duration 145 ms by bot id=7583563548
+2024-10-10 04:39:26 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам и группам.
+2024-10-10 04:39:26 - aiogram.event - INFO - Update id=812558058 is handled. Duration 167 ms by bot id=7583563548
+2024-10-10 04:39:32 - aiogram.event - INFO - Update id=812558059 is handled. Duration 135 ms by bot id=7583563548
+2024-10-10 04:39:41 - aiogram.event - INFO - Update id=812558060 is handled. Duration 176 ms by bot id=7583563548
+2024-10-10 04:40:01 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:40:01 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:40:01 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:40:03 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:40:04 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:40:08 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:40:08 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:40:08 - aiogram.event - INFO - Update id=812558061 is handled. Duration 477 ms by bot id=7583563548
+2024-10-10 04:40:10 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам и группам.
+2024-10-10 04:40:10 - aiogram.event - INFO - Update id=812558062 is handled. Duration 361 ms by bot id=7583563548
+2024-10-10 04:40:13 - aiogram.event - INFO - Update id=812558063 is handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:40:59 - handlers.handlers - INFO - Отправляем сообщение подписчикам: [717426160, 6088267849]
+2024-10-10 04:40:59 - handlers.handlers - ERROR - Не удалось отправить сообщение подписчику 717426160: 1 validation error for SendMessage
+text
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-10 04:40:59 - handlers.handlers - ERROR - Не удалось отправить сообщение подписчику 6088267849: 1 validation error for SendMessage
+text
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-10 04:40:59 - aiogram.event - INFO - Update id=812558064 is not handled. Duration 344 ms by bot id=7583563548
+2024-10-10 04:40:59 - aiogram.event - ERROR - Cause exception while process update id=812558064 by bot id=7583563548
+AttributeError: 'Bot' object has no attribute 'get_dialogs'
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 71, in send_message_to_subscribers_and_groups
+    groups = await get_admin_groups(message.bot)
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 42, in get_admin_groups
+    async for dialog in bot.get_dialogs():
+AttributeError: 'Bot' object has no attribute 'get_dialogs'
+2024-10-10 04:41:00 - aiogram.event - INFO - Update id=812558065 is handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:43:41 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:43:41 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:43:41 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:43:43 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:43:44 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:43:48 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:43:48 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:43:48 - aiogram.event - INFO - Update id=812558066 is handled. Duration 425 ms by bot id=7583563548
+2024-10-10 04:43:50 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам и группам.
+2024-10-10 04:43:50 - aiogram.event - INFO - Update id=812558067 is handled. Duration 147 ms by bot id=7583563548
+2024-10-10 04:43:53 - aiogram.event - INFO - Update id=812558068 is handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:50:21 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:50:21 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:50:21 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:50:23 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:50:23 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:50:29 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:50:29 - aiogram.event - INFO - Update id=812558069 is not handled. Duration 32 ms by bot id=7583563548
+2024-10-10 04:50:29 - aiogram.event - ERROR - Cause exception while process update id=812558069 by bot id=7583563548
+AttributeError: 'InlineKeyboardMarkup' object has no attribute 'row'
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 24, in start_command
+    keyboard.row(InlineKeyboardButton(text="Рассылка 📨", callback_data="send"))
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/pydantic/main.py", line 856, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'InlineKeyboardMarkup' object has no attribute 'row'
+2024-10-10 04:50:30 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:50:30 - aiogram.event - INFO - Update id=812558070 is not handled. Duration 25 ms by bot id=7583563548
+2024-10-10 04:50:30 - aiogram.event - ERROR - Cause exception while process update id=812558070 by bot id=7583563548
+AttributeError: 'InlineKeyboardMarkup' object has no attribute 'row'
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 24, in start_command
+    keyboard.row(InlineKeyboardButton(text="Рассылка 📨", callback_data="send"))
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/pydantic/main.py", line 856, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'InlineKeyboardMarkup' object has no attribute 'row'
+2024-10-10 04:52:56 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:52:56 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:52:56 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:52:58 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:52:59 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:53:40 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:53:41 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:53:41 - aiogram.event - INFO - Update id=812558071 is handled. Duration 399 ms by bot id=7583563548
+2024-10-10 04:53:44 - aiogram.event - INFO - Update id=812558072 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:53:46 - aiogram.event - INFO - Update id=812558073 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:53:47 - aiogram.event - INFO - Update id=812558074 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:53:48 - aiogram.event - INFO - Update id=812558075 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:53:49 - aiogram.event - INFO - Update id=812558076 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:53:56 - aiogram.event - INFO - Update id=812558077 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:58:11 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:58:11 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:58:11 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:58:13 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:58:13 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:58:17 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:58:17 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:58:17 - aiogram.event - INFO - Update id=812558078 is handled. Duration 408 ms by bot id=7583563548
+2024-10-10 04:58:19 - aiogram.event - INFO - Update id=812558079 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:58:21 - aiogram.event - INFO - Update id=812558080 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:58:22 - aiogram.event - INFO - Update id=812558081 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:58:54 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 04:58:54 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:58:54 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 04:58:56 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 04:58:57 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 04:59:02 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:59:02 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 04:59:02 - aiogram.event - INFO - Update id=812558082 is handled. Duration 404 ms by bot id=7583563548
+2024-10-10 04:59:03 - aiogram.event - INFO - Update id=812558083 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:59:05 - aiogram.event - INFO - Update id=812558084 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:59:32 - aiogram.event - INFO - Update id=812558085 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:59:36 - aiogram.event - INFO - Update id=812558086 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:59:40 - aiogram.event - INFO - Update id=812558087 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 04:59:44 - aiogram.event - INFO - Update id=812558088 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:00:21 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 05:00:21 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 05:00:21 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 05:00:24 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 05:00:24 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 05:00:27 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:00:28 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:00:28 - aiogram.event - INFO - Update id=812558089 is handled. Duration 385 ms by bot id=7583563548
+2024-10-10 05:00:29 - aiogram.event - INFO - Update id=812558090 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:00:31 - aiogram.event - INFO - Update id=812558091 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:00:32 - aiogram.event - INFO - Update id=812558092 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:01:42 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 05:01:42 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 05:01:42 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 05:01:44 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 05:01:45 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 05:01:45 - handlers.handlers - INFO - Действие: help
+2024-10-10 05:01:45 - aiogram.event - INFO - Update id=812558093 is handled. Duration 684 ms by bot id=7583563548
+2024-10-10 05:01:50 - handlers.handlers - INFO - Действие: info
+2024-10-10 05:01:50 - aiogram.event - INFO - Update id=812558094 is handled. Duration 457 ms by bot id=7583563548
+2024-10-10 05:01:54 - handlers.handlers - INFO - Действие: send
+2024-10-10 05:01:54 - aiogram.event - INFO - Update id=812558095 is handled. Duration 117 ms by bot id=7583563548
+2024-10-10 05:02:15 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 05:02:15 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 05:02:15 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 05:02:18 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 05:02:18 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 05:02:20 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:02:20 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:02:20 - aiogram.event - INFO - Update id=812558096 is handled. Duration 408 ms by bot id=7583563548
+2024-10-10 05:02:21 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам.
+2024-10-10 05:02:22 - handlers.handlers - INFO - Действие: send
+2024-10-10 05:02:22 - aiogram.event - INFO - Update id=812558097 is handled. Duration 385 ms by bot id=7583563548
+2024-10-10 05:02:31 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: Some message ars
+2024-10-10 05:02:31 - aiogram.event - INFO - Update id=812558098 is handled. Duration 202 ms by bot id=7583563548
+2024-10-10 05:02:33 - handlers.handlers - INFO - Отправляем сообщение подписчикам: [717426160, 6088267849]
+2024-10-10 05:02:33 - handlers.handlers - INFO - Сообщение отправлено подписчику 717426160
+2024-10-10 05:02:33 - handlers.handlers - INFO - Сообщение отправлено подписчику 6088267849
+2024-10-10 05:02:34 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 05:02:34 - aiogram.event - INFO - Update id=812558099 is handled. Duration 1406 ms by bot id=7583563548
+2024-10-10 05:04:48 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:04:48 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:04:48 - aiogram.event - INFO - Update id=812558100 is handled. Duration 442 ms by bot id=7583563548
+2024-10-10 05:04:50 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам.
+2024-10-10 05:04:50 - handlers.handlers - INFO - Действие: send
+2024-10-10 05:04:50 - aiogram.event - INFO - Update id=812558101 is handled. Duration 267 ms by bot id=7583563548
+2024-10-10 05:04:53 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: Gg
+2024-10-10 05:04:53 - aiogram.event - INFO - Update id=812558102 is handled. Duration 246 ms by bot id=7583563548
+2024-10-10 05:04:55 - handlers.handlers - INFO - Действие: cancel_send
+2024-10-10 05:04:55 - aiogram.event - INFO - Update id=812558103 is handled. Duration 272 ms by bot id=7583563548
+2024-10-10 05:09:28 - aiogram.event - INFO - Update id=812558104 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:09:30 - aiogram.event - INFO - Update id=812558105 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:10:44 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:10:44 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:10:44 - aiogram.event - INFO - Update id=812558106 is handled. Duration 380 ms by bot id=7583563548
+2024-10-10 05:10:46 - handlers.handlers - INFO - Действие: help
+2024-10-10 05:10:46 - aiogram.event - INFO - Update id=812558107 is handled. Duration 292 ms by bot id=7583563548
+2024-10-10 05:10:48 - handlers.handlers - INFO - Действие: info
+2024-10-10 05:10:48 - aiogram.event - INFO - Update id=812558108 is handled. Duration 578 ms by bot id=7583563548
+2024-10-10 05:10:49 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам.
+2024-10-10 05:10:49 - handlers.handlers - INFO - Действие: send
+2024-10-10 05:10:49 - aiogram.event - INFO - Update id=812558109 is handled. Duration 237 ms by bot id=7583563548
+2024-10-10 05:10:54 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: f
+2024-10-10 05:10:54 - aiogram.event - INFO - Update id=812558110 is handled. Duration 193 ms by bot id=7583563548
+2024-10-10 05:10:55 - handlers.handlers - INFO - Действие: cancel_send
+2024-10-10 05:10:55 - aiogram.event - INFO - Update id=812558111 is handled. Duration 265 ms by bot id=7583563548
+2024-10-10 05:17:59 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:17:59 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:17:59 - aiogram.event - INFO - Update id=812558112 is handled. Duration 381 ms by bot id=7583563548
+2024-10-10 05:25:23 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 05:25:23 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'StoreStoneBot'
+2024-10-10 05:25:23 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 05:25:25 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 05:25:26 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'stonerhelper'
+2024-10-10 05:25:39 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:25:39 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:25:39 - aiogram.event - INFO - Update id=812558113 is handled. Duration 379 ms by bot id=7583563548
+2024-10-10 05:25:43 - aiogram.event - INFO - Update id=812558114 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:25:43 - aiogram.event - ERROR - Cause exception while process update id=812558114 by bot id=7583563548
+FileNotFoundError: [Errno 2] No such file or directory: 'bot.log'
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 104, in handle_callback
+    with open("bot.log", "rb") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: 'bot.log'
+2024-10-10 05:26:03 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 05:26:03 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'stonerhelper'
+2024-10-10 05:26:03 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 05:26:05 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 05:26:05 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'stonerhelper'
+2024-10-10 05:26:06 - aiogram.event - INFO - Update id=812558115 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:26:06 - aiogram.event - ERROR - Cause exception while process update id=812558115 by bot id=7583563548
+FileNotFoundError: [Errno 2] No such file or directory: 'log/bot.log'
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 104, in handle_callback
+    with open("log/bot.log", "rb") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: 'log/bot.log'
+2024-10-10 05:26:18 - aiogram.event - INFO - Update id=812558116 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:26:18 - aiogram.event - ERROR - Cause exception while process update id=812558116 by bot id=7583563548
+FileNotFoundError: [Errno 2] No such file or directory: 'log/bot.log'
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 104, in handle_callback
+    with open("log/bot.log", "rb") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: 'log/bot.log'
+2024-10-10 05:26:58 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 05:26:58 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'stonerhelper'
+2024-10-10 05:26:58 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 05:27:00 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 05:27:00 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'stonerhelper'
+2024-10-10 05:27:00 - aiogram.event - INFO - Update id=812558117 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:27:00 - aiogram.event - ERROR - Cause exception while process update id=812558117 by bot id=7583563548
+ValidationError: 2 validation errors for SendDocument
+document.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...ketbot/bot/log/bot.log'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+document.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...ketbot/bot/log/bot.log'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 109, in handle_callback
+    await callback_query.message.answer_document(log_file)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/types/message.py", line 1293, in answer_document
+    return SendDocument(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/pydantic/main.py", line 212, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for SendDocument
+document.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...ketbot/bot/log/bot.log'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+document.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...ketbot/bot/log/bot.log'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-10 05:27:09 - aiogram.event - INFO - Update id=812558118 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:27:09 - aiogram.event - ERROR - Cause exception while process update id=812558118 by bot id=7583563548
+ValidationError: 2 validation errors for SendDocument
+document.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...ketbot/bot/log/bot.log'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+document.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...ketbot/bot/log/bot.log'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 109, in handle_callback
+    await callback_query.message.answer_document(log_file)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/types/message.py", line 1293, in answer_document
+    return SendDocument(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/pydantic/main.py", line 212, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for SendDocument
+document.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...ketbot/bot/log/bot.log'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+document.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...ketbot/bot/log/bot.log'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-10 05:27:12 - aiogram.event - INFO - Update id=812558119 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:27:12 - aiogram.event - ERROR - Cause exception while process update id=812558119 by bot id=7583563548
+ValidationError: 2 validation errors for SendDocument
+document.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...ketbot/bot/log/bot.log'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+document.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...ketbot/bot/log/bot.log'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 109, in handle_callback
+    await callback_query.message.answer_document(log_file)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/types/message.py", line 1293, in answer_document
+    return SendDocument(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/pydantic/main.py", line 212, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for SendDocument
+document.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...ketbot/bot/log/bot.log'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+document.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...ketbot/bot/log/bot.log'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-10 05:29:48 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 05:29:48 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'stonerhelper'
+2024-10-10 05:29:48 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 05:29:50 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 05:29:50 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'stonerhelper'
+2024-10-10 05:29:53 - aiogram.event - INFO - Update id=812558120 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:29:53 - aiogram.event - ERROR - Cause exception while process update id=812558120 by bot id=7583563548
+TypeError: Can't instantiate abstract class InputFile with abstract method read
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 108, in handle_callback
+    input_file = InputFile(LOG_FILE)
+TypeError: Can't instantiate abstract class InputFile with abstract method read
+2024-10-10 05:29:55 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:29:55 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:29:55 - aiogram.event - INFO - Update id=812558121 is handled. Duration 377 ms by bot id=7583563548
+2024-10-10 05:29:56 - aiogram.event - INFO - Update id=812558122 is not handled. Duration 0 ms by bot id=7583563548
+2024-10-10 05:29:56 - aiogram.event - ERROR - Cause exception while process update id=812558122 by bot id=7583563548
+TypeError: Can't instantiate abstract class InputFile with abstract method read
+Traceback (most recent call last):
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/arcane/web/marketbot/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/arcane/web/marketbot/bot/handlers/handlers.py", line 108, in handle_callback
+    input_file = InputFile(LOG_FILE)
+TypeError: Can't instantiate abstract class InputFile with abstract method read
+2024-10-10 05:32:40 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 05:32:40 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'stonerhelper'
+2024-10-10 05:32:40 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 05:32:42 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 05:32:43 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'stonerhelper'
+2024-10-10 05:32:51 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:32:51 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:32:51 - aiogram.event - INFO - Update id=812558123 is handled. Duration 385 ms by bot id=7583563548
+2024-10-10 05:32:53 - handlers.handlers - INFO - Действие: help
+2024-10-10 05:32:53 - aiogram.event - INFO - Update id=812558124 is handled. Duration 313 ms by bot id=7583563548
+2024-10-10 05:32:55 - handlers.handlers - INFO - Действие: info
+2024-10-10 05:32:55 - aiogram.event - INFO - Update id=812558125 is handled. Duration 275 ms by bot id=7583563548
+2024-10-10 05:32:59 - handlers.handlers - INFO - Действие: log
+2024-10-10 05:32:59 - aiogram.event - INFO - Update id=812558126 is handled. Duration 124 ms by bot id=7583563548
+2024-10-10 05:33:00 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам.
+2024-10-10 05:33:00 - handlers.handlers - INFO - Действие: send
+2024-10-10 05:33:00 - aiogram.event - INFO - Update id=812558127 is handled. Duration 275 ms by bot id=7583563548
+2024-10-10 05:33:10 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: None
+2024-10-10 05:33:10 - aiogram.event - INFO - Update id=812558128 is handled. Duration 185 ms by bot id=7583563548
+2024-10-10 05:33:12 - handlers.handlers - INFO - Отправляем сообщение подписчикам: [717426160, 6088267849]
+2024-10-10 05:33:12 - handlers.handlers - ERROR - Не удалось отправить сообщение подписчику 717426160: 1 validation error for SendMessage
+text
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-10 05:33:12 - handlers.handlers - ERROR - Не удалось отправить сообщение подписчику 6088267849: 1 validation error for SendMessage
+text
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-10 05:33:12 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 05:33:12 - aiogram.event - INFO - Update id=812558129 is handled. Duration 551 ms by bot id=7583563548
+2024-10-10 05:34:01 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 05:34:01 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'stonerhelper'
+2024-10-10 05:34:01 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-10 05:34:03 - aiogram.dispatcher - INFO - Start polling
+2024-10-10 05:34:04 - aiogram.dispatcher - INFO - Run polling for bot @StoreStoneBot id=7583563548 - 'stonerhelper'
+2024-10-10 05:34:17 - database - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:34:17 - handlers.handlers - INFO - Пользователь 717426160 добавлен в базу данных подписчиков.
+2024-10-10 05:34:17 - aiogram.event - INFO - Update id=812558130 is handled. Duration 368 ms by bot id=7583563548
+2024-10-10 05:34:23 - handlers.handlers - INFO - Ожидание сообщения для рассылки подписчикам.
+2024-10-10 05:34:23 - handlers.handlers - INFO - Действие: send
+2024-10-10 05:34:23 - aiogram.event - INFO - Update id=812558131 is handled. Duration 318 ms by bot id=7583563548
+2024-10-10 05:34:32 - handlers.handlers - INFO - Сообщение для подтверждения рассылки: Some message without stick
+2024-10-10 05:34:32 - aiogram.event - INFO - Update id=812558132 is handled. Duration 137 ms by bot id=7583563548
+2024-10-10 05:34:33 - handlers.handlers - INFO - Отправляем сообщение подписчикам: [717426160, 6088267849]
+2024-10-10 05:34:33 - handlers.handlers - INFO - Сообщение отправлено подписчику 717426160
+2024-10-10 05:34:33 - handlers.handlers - INFO - Сообщение отправлено подписчику 6088267849
+2024-10-10 05:34:34 - handlers.handlers - INFO - Действие: confirm_send
+2024-10-10 05:34:34 - aiogram.event - INFO - Update id=812558133 is handled. Duration 870 ms by bot id=7583563548
+2024-10-10 05:40:55 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-10 05:40:55 - aiogram.dispatcher - INFO - Polling stopped for bot @StoreStoneBot id=7583563548 - 'stonerhelper'
+2024-10-10 05:40:55 - aiogram.dispatcher - INFO - Polling stopped

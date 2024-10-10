@@ -1,0 +1,14 @@
+services:
+  bot:
+    build: bot
+    networks:
+      - app-network
+    env_file:
+      - .env
+    volumes:
+      - ./bot/log:/app/log
+
+networks:
+  app-network:
+    driver: bridge
+

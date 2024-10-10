@@ -1,0 +1,19 @@
+FROM python:3.11
+
+# Set the working directory
+WORKDIR /app
+
+# Copy the current directory contents into the container at /app
+COPY . /app
+
+# Install any needed packages specified in requirements.txt
+COPY requirements.txt .
+RUN pip install --upgrade pip
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy entrypoint.sh and make it executable
+COPY entrypoint.sh .
+RUN chmod +x entrypoint.sh
+
+# Run app.py when the container launches
+CMD ["./entrypoint.sh"]
